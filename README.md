@@ -37,7 +37,7 @@ Product leader and builder based in NYC with 12+ years experience. I love helpin
 
 
 #### Nonprofit work
-- Co-founded **[FORGOTTEN LANDS Art](https://www.forgottenlandsart.com/)**, a nonprofit 501(c)(3) supporting underrepresented artists and community-driven creative spaces.
+- Co-founded **[FORGOTTEN LANDS Art](https://www.forgottenlandsart.com/)**, a nonprofit 501(c)(3) supporting Caribbean artists and community-driven spaces.
 - Mentor with **[Camping to Connect](https://www.campingtoconnect.com/)**, working with young men of color on leadership, brotherhood, and belonging through the outdoors.
 
 #### Let's Connect
