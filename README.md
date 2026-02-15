@@ -16,19 +16,23 @@ Here are some ideas to get you started:
 
 # I'm Cory ✌🏽
 
-Product leader and builder based in NYC, I love helping product teams scale from 0 to 1. 
+Product leader and builder based in NYC, I love helping product teams scale from 0 to 1.  
 
 ## Currently
 
-**Senior Product Manager, AI @ [Bubble](https://bubble.io)** — Leading AI product development, recently shipped Bubble Agent: context-aware assistant that generates UI, debugs workflows, and guides users through building apps. 
+- **Senior Product Manager, AI @ [Bubble](https://bubble.io)** — Leading AI product development, recently shipped Bubble Agent: context-aware assistant that generates UI, debugs workflows, and guides users through building apps. 
+- **Tinkering for fun on [ProductHubAI](https://www.producthub.ai)** — Built AI user feedback analyzer after experiencing the pain of mapping and synthesizing user data from across siloed data soruces. 
 
-**Tinkering for fun on [ProductHubAI](https://www.producthub.ai)** — Built AI user feedback analyzer after experiencing the pain of mapping and synthesizing user data from across siloed data soruces. 
+## Recently
+- **LogRocket: Leader Spotlight: Building a human-focused AI product** — Read the full interview: https://stories.logrocket.com/p/leader-spotlight-building-a-human
 
-## Previous Work
-12+ years building and scaling products across AI, SaaS, and mobile.
+
+## Previous Work 
 - **Augmend AI** — Product Lead at an AI dev tools startup, acquired by DataDog in 2024
 - **Safesite** — Joined as first PM, scaled to VP Product through seed → Series B. Built the #1 Safety Management Platform (57% reduction in workplace incidents). Led pivot into insurtech with ML-powered risk scoring
 - **ShopDrop** — Founded and sold a mobile app for local shopping & discovery. Previously: TechCrunch Pitch-off NYC Audience Favorite, Accenture Consumer Innovation Awards Finalist, TimeOut NY Best Apps for NYC
+
+
 
 ## Nonprofits
 - Co-founded **[FORGOTTEN LANDS Art](https://www.forgottenlandsart.com/)**, a nonprofit supporting underrepresented artists and community-driven creative spaces
