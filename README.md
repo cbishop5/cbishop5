@@ -32,8 +32,7 @@ Product leader and builder based in NYC, I love helping product teams scale from
 
 ## Nonprofits
 - Co-founded **[FORGOTTEN LANDS Art](https://www.forgottenlandsart.com/)**, a nonprofit supporting underrepresented artists and community-driven creative spaces
-- Mentor with Young Masterminds Initiative, working with young men of color on leadership development
+- Mentor with **[Camping to Connect](https://www.campingtoconnect.com/)**, working with young men of color on leadership, brotherhood, and belonging through the outdoors.
 
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cory-t-469a8238/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:corybishop5@gmail.com)
