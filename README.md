@@ -22,7 +22,7 @@ Product leader and builder based in NYC with 12+ years experience. I love helpin
 ### Currently
 
 - **Senior Product Manager, AI @ [Bubble](https://bubble.io)** — Leading AI product development, recently shipped Bubble Agent: a context-aware assistant that generates UI, debugs workflows, and guides users through building apps. 
-- **Tinkering for fun on [ProductHubAI](https://www.producthub.ai)** — Built AI user feedback analyzer after experiencing the pain of mapping and synthesizing user data from across siloed data sources. 
+- **Tinkering for fun on [ProductHubAI](https://www.producthub.ai)** — Built AI user feedback analyzer after experiencing the pain of mapping and synthesizing user data across siloed data sources. 
 
 ### Recently
 - **The Bubble AI Agent Is Here** — Released Bubble AI Agent and AI mobile app generation. [Read the announcement](https://bubble.io/blog/bubble-tour-founder-keynote-2025/)
