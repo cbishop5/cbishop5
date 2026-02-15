@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # I'm Cory ✌🏽
 
-Product leader and builder based in NYC, I love helping product teams scale from 0 to 1.  
+Product leader and builder based in NYC with 12+ years experience, I love helping product teams scale from 0 to 1. Beyond my professional work, I mentor youth through the outdoors at Camping to Connect and co-founded an arts nonprofit.
 
 ## Currently
 
@@ -24,6 +24,7 @@ Product leader and builder based in NYC, I love helping product teams scale from
 - **Tinkering for fun on [ProductHubAI](https://www.producthub.ai)** — Built AI user feedback analyzer after experiencing the pain of mapping and synthesizing user data from across siloed data soruces. 
 
 ## Recently
+- **The Bubble AI Agent Is Here, Plus Mobile AI and Platform Updates** — Released Bubble AI Agent and AI mobile app generation: https://bubble.io/blog/bubble-tour-founder-keynote-2025/
 - **LogRocket: Leader Spotlight: Building a human-focused AI product** — Read the full interview: https://stories.logrocket.com/p/leader-spotlight-building-a-human
 
 
