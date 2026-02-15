@@ -20,17 +20,18 @@ Product leader and builder based in NYC. I'm a builder and I love helping teams 
 
 ## Currently
 
-**Senior Product Manager, AI @ [Bubble](https://bubble.io)** — Leading AI product development, recently shipped Bubble Agen (an intelligent assistant that generates UI, debugs workflows, and guides users through buiulding apps) and launched mobile "vibe coding" that lets anyone generate iOS/Android apps through natural language in minutes.
-**Tinkering for fun on ProductHubAI https://www.producthub.ai/** — Built this AI user feedback analyzer after experiencing the pain of mapping and synthesizing user data from across siloed data soruces. 
+**Senior Product Manager, AI @ [Bubble](https://bubble.io)** — Leading AI product development, recently shipped Bubble Agent: context-aware assistant that generates UI, debugs workflows, and guides users through building apps. 
+
+**Tinkering for fun on [ProductHubAI](https://www.producthub.ai)** — Built AI user feedback analyzer after experiencing the pain of mapping and synthesizing user data from across siloed data soruces. 
 
 ## Previous Work
 12+ years building and scaling products across AI, SaaS, and mobile.
-- **Augmend AI** — Product Lead at an AI dev tools startup, acquired by **DataDog** in 2024
+- **Augmend AI** — Product Lead at an AI dev tools startup, acquired by DataDog in 2024
 - **Safesite** — Joined as first PM, scaled to VP Product through seed → Series B. Built the #1 Safety Management Platform (57% reduction in workplace incidents). Led pivot into insurtech with ML-powered risk scoring
 - **ShopDrop** — Founded and sold a mobile app for local shopping & discovery. Previously: TechCrunch Pitch-off NYC Audience Favorite, Accenture Consumer Innovation Awards Finalist, TimeOut NY Best Apps for NYC
 
 ## Nonprofits
-- Co-founded **Forgotten Lands Art**, a nonprofit supporting underrepresented artists and community-driven creative spaces
+- Co-founded **[FORGOTTEN LANDS Art](https://www.forgottenlandsart.com/)**, a nonprofit supporting underrepresented artists and community-driven creative spaces
 - Mentor with Young Masterminds Initiative, working with young men of color on leadership development
 
 ## Let's Connect
