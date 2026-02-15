@@ -24,12 +24,12 @@ Product leader and builder based in NYC with 12+ years experience. I love helpin
 - **Senior Product Manager, AI @ [Bubble](https://bubble.io)** — Leading AI product development, recently shipped Bubble Agent: a context-aware assistant that generates UI, debugs workflows, and guides users through building apps. 
 - **Tinkering on [ProductHubAI](https://www.producthub.ai)** — AI user feedback analyzer I built on the side after experiencing the pain of mapping and synthesizing user data across siloed data sources. 
 
-#### Recently
+#### Recent
 - **LogRocket Leader Spotlight: Building a human-focused AI product** — [Read the full interview](https://stories.logrocket.com/p/leader-spotlight-building-a-human)
 - **The Bubble AI Agent Is Here** — Released Bubble AI Agent and AI mobile app generation. [Read the announcement](https://bubble.io/blog/bubble-tour-founder-keynote-2025/)
 
 
-#### Previously 
+#### Previous
 - **Augmend AI** — Product Lead at AI-native collective intelligence platform for dev teams, acquired by DataDog in 2024.
 - **Safesite** — Joined as first PM, scaled to VP Product through seed → Series B. Led pivot into insurtech with ML-powered risk scoring.
 - **ShopDrop** — Founded and sold a mobile app for local shopping & discovery. Previously: TechCrunch Pitch-off Audience Favorite, Accenture Consumer Innovation Awards Finalist, TimeOut Best Apps for NYC.
