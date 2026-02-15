@@ -16,28 +16,29 @@ Here are some ideas to get you started:
 
 # I'm Cory ✌🏽
 
-Product leader and builder based in NYC with 12+ years experience, I love helping product teams scale from 0 to 1. Beyond my professional work, I mentor youth through the outdoors at Camping to Connect and co-founded an arts nonprofit.
-
-## Currently
-
-- **Senior Product Manager, AI @ [Bubble](https://bubble.io)** — Leading AI product development, recently shipped Bubble Agent: context-aware assistant that generates UI, debugs workflows, and guides users through building apps. 
-- **Tinkering for fun on [ProductHubAI](https://www.producthub.ai)** — Built AI user feedback analyzer after experiencing the pain of mapping and synthesizing user data from across siloed data soruces. 
-
-## Recently
-- **The Bubble AI Agent Is Here, Plus Mobile AI and Platform Updates** — Released Bubble AI Agent and AI mobile app generation: https://bubble.io/blog/bubble-tour-founder-keynote-2025/
-- **LogRocket: Leader Spotlight: Building a human-focused AI product** — Read the full interview: https://stories.logrocket.com/p/leader-spotlight-building-a-human
+Product leader and builder based in NYC with 12+ years experience. I love helping product teams scale from 0 to 1. Beyond my professional work, I mentor youth through the outdoors at Camping to Connect and co-founded an arts nonprofit.
 
 
-## Previous Work 
-- **Augmend AI** — Product Lead at an AI dev tools startup, acquired by DataDog in 2024
-- **Safesite** — Joined as first PM, scaled to VP Product through seed → Series B. Built the #1 Safety Management Platform (57% reduction in workplace incidents). Led pivot into insurtech with ML-powered risk scoring
-- **ShopDrop** — Founded and sold a mobile app for local shopping & discovery. Previously: TechCrunch Pitch-off NYC Audience Favorite, Accenture Consumer Innovation Awards Finalist, TimeOut NY Best Apps for NYC
+### Currently
+
+- **Senior Product Manager, AI @ [Bubble](https://bubble.io)** — Leading AI product development, recently shipped Bubble Agent: a context-aware assistant that generates UI, debugs workflows, and guides users through building apps. 
+- **Tinkering for fun on [ProductHubAI](https://www.producthub.ai)** — Built AI user feedback analyzer after experiencing the pain of mapping and synthesizing user data from across siloed data sources. 
+
+### Recently
+- **The Bubble AI Agent Is Here** — Released Bubble AI Agent and AI mobile app generation. [Read the announcement](https://bubble.io/blog/bubble-tour-founder-keynote-2025/)
+- **LogRocket Leader Spotlight: Building a human-focused AI product** — [Read the full interview](https://stories.logrocket.com/p/leader-spotlight-building-a-human)
+
+
+### Previously 
+- **Augmend AI** — Product Lead at AI-native collective intelligence platform for dev teams, acquired by DataDog in 2024
+- **Safesite** — Joined as first PM, scaled to VP Product through seed → Series B. Led pivot into insurtech with ML-powered risk scoring
+- **ShopDrop** — Founded and sold a mobile app for local shopping & discovery. Previously: TechCrunch Pitch-off Audience Favorite, Accenture Consumer Innovation Awards Finalist, TimeOut Best Apps for NYC
 
 
 
-## Nonprofits
-- Co-founded **[FORGOTTEN LANDS Art](https://www.forgottenlandsart.com/)**, a nonprofit supporting underrepresented artists and community-driven creative spaces
+### Nonprofit work
+- Co-founded **[FORGOTTEN LANDS Art](https://www.forgottenlandsart.com/)**, a nonprofit 501(c)(3) supporting underrepresented artists and community-driven creative spaces.
 - Mentor with **[Camping to Connect](https://www.campingtoconnect.com/)**, working with young men of color on leadership, brotherhood, and belonging through the outdoors.
 
-## Let's Connect
+### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cory-t-469a8238/)
