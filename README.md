@@ -30,9 +30,9 @@ Product leader and builder based in NYC with 12+ years experience. I love helpin
 
 
 ### Previously 
-- **Augmend AI** — Product Lead at AI-native collective intelligence platform for dev teams, acquired by DataDog in 2024
-- **Safesite** — Joined as first PM, scaled to VP Product through seed → Series B. Led pivot into insurtech with ML-powered risk scoring
-- **ShopDrop** — Founded and sold a mobile app for local shopping & discovery. Previously: TechCrunch Pitch-off Audience Favorite, Accenture Consumer Innovation Awards Finalist, TimeOut Best Apps for NYC
+- **Augmend AI** — Product Lead at AI-native collective intelligence platform for dev teams, acquired by DataDog in 2024.
+- **Safesite** — Joined as first PM, scaled to VP Product through seed → Series B. Led pivot into insurtech with ML-powered risk scoring.
+- **ShopDrop** — Founded and sold a mobile app for local shopping & discovery. Previously: TechCrunch Pitch-off Audience Favorite, Accenture Consumer Innovation Awards Finalist, TimeOut Best Apps for NYC.
 
 
 
