@@ -36,9 +36,9 @@ Product leader and builder based in NYC with 12+ years experience. I love helpin
 
 
 
-### Nonprofit work
+#### Nonprofit work
 - Co-founded **[FORGOTTEN LANDS Art](https://www.forgottenlandsart.com/)**, a nonprofit 501(c)(3) supporting underrepresented artists and community-driven creative spaces.
 - Mentor with **[Camping to Connect](https://www.campingtoconnect.com/)**, working with young men of color on leadership, brotherhood, and belonging through the outdoors.
 
-### Let's Connect
+#### Let's Connect
 [LinkedIn](https://www.linkedin.com/in/cory-t-469a8238/)  |  [Medium](https://medium.com/@mistabishop)
