@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-# Hey, I'm Cory ✌🏽
+# I'm Cory ✌🏽
 
-Product leader and builder based in NYC. I'm a builder and I love helping teams scale from 0 to 1.
+Product leader and builder based in NYC, I love helping teams scale from 0 to 1. 
 
 ## Currently
 
