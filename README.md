@@ -41,4 +41,4 @@ Product leader and builder based in NYC with 12+ years experience. I love helpin
 - Mentor with **[Camping to Connect](https://www.campingtoconnect.com/)**, working with young men of color on leadership, brotherhood, and belonging through the outdoors.
 
 ### Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cory-t-469a8238/)
+[LinkedIn](https://www.linkedin.com/in/cory-t-469a8238/)  |  [Medium](https://medium.com/@mistabishop)
