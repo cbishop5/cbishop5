@@ -22,7 +22,7 @@ Product leader and builder based in NYC with 12+ years experience. I love helpin
 #### Currently
 
 - **Senior Product Manager, AI @ [Bubble](https://bubble.io)** — Launched v1.0 and now iterating on the Bubble Agent: a context-aware assistant that generates UI, debugs workflows, and guides users through building apps. 
-- **Tinkering on [Parallax](https://parallaxlabs.sh/)** — An agent observability platform that turns production AI agent traces into validated workflow fixes.
+- **Tinkering on [TraceHawk](https://gettracehawk.com/)** — An agent observability platform that turns production AI agent traces into validated workflow fixes.
 
 #### Recent
 - **LogRocket Leader Spotlight: Building a human-focused AI product** — [Read the full interview](https://stories.logrocket.com/p/leader-spotlight-building-a-human)
