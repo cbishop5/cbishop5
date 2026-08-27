@@ -22,23 +22,23 @@ Product leader and builder based in NYC with 12+ years experience. I love helpin
 #### Currently
 
 - **Senior Product Manager, AI @ [Bubble](https://bubble.io)** — Launched v1.0 and now iterating on the Bubble Agent: a context-aware assistant that generates UI, debugs workflows, and guides users through building apps. 
-- **Tinkering on [TraceHawk](https://gettracehawk.com/)** — An agent observability platform that turns production AI agent traces into validated workflow fixes.
+- **Tinkering on [TraceHawk](https://gettracehawk.com/)** — Process mining for AI agents in production. We read the traces teams already collect in LangSmith, Langfuse, Arize, and Datadog, analyze thousands of production runs at once, and find the loops, retries, and silent failures burning money. Then we hand back a specific fix with the dollar impact attached.
 
-#### Recent
+#### Previously
+- Augmend AI. Product Lead at an AI-native collective intelligence platform for dev teams. Acquired by Datadog in 2024.
+- Safesite. Joined as first PM, scaled to VP Product through seed to Series B, and grew the product org from 1 to 4. Built the #1 EHS management platform, with a 57% proven reduction in workplace incidents, then led the pivot into insurtech with the ML risk model behind Foresight Insurance.
+- ShopDrop. Founded and sold an iOS and web app for finding sample sales and pop-ups in NYC. Scaled to 50k monthly actives with no marketing budget. TechCrunch Demo Day Audience Favorite, Accenture Consumer Innovation Awards finalist, Time Out NY top-20 apps for NYC.
+
+#### Writing & Press
 - **LogRocket Leader Spotlight: Building a human-focused AI product** — [Read the full interview](https://stories.logrocket.com/p/leader-spotlight-building-a-human)
 - **The Bubble AI Agent Is Here** — Released Bubble AI Agent and AI mobile app generation. [Read the announcement](https://bubble.io/blog/bubble-tour-founder-keynote-2025/)
-
-
-#### Previous
-- **Augmend AI** — Product Lead at AI-native collective intelligence platform for dev teams, acquired by DataDog in 2024.
-- **Safesite** — Joined as first PM, scaled to VP Product through seed → Series B. Led pivot into insurtech with ML-powered risk scoring under new business Foresight Insurance.
-- **ShopDrop** — Founded and sold a mobile app for local shopping & discovery. Previously: TechCrunch Pitch-off Audience Favorite, Accenture Consumer Innovation Awards Finalist, TimeOut Best Apps for NYC.
+- [Medium](https://medium.com/@mistabishop)
 
 
 
 #### Nonprofit work
-- Co-founded **[FORGOTTEN LANDS Art](https://www.forgottenlandsart.com/)**, a nonprofit 501(c)(3) supporting Caribbean artists and community-driven spaces.
-- Mentor with **[Camping to Connect](https://www.campingtoconnect.com/)**, working with young men of color on leadership, brotherhood, and belonging through the outdoors.
+- Co-founded **[FORGOTTEN LANDS Art](https://www.forgottenlandsart.com/)**, a 501(c)(3) supporting Caribbean artists and community-driven spaces.
+- Mentoring, **[Camping to Connect](https://www.campingtoconnect.com/)**, working with young men of color on leadership, brotherhood, and belonging through the outdoors.
 
 #### Let's Connect
-[LinkedIn](https://www.linkedin.com/in/cory-t-469a8238/)  |  [Medium](https://medium.com/@mistabishop)
+[LinkedIn](https://www.linkedin.com/in/cory-t-469a8238/)  |  [Email](corybishop5@gmail.com)
