@@ -41,4 +41,4 @@ Product leader and builder based in NYC with 12+ years experience. I love helpin
 - Mentoring, **[Camping to Connect](https://www.campingtoconnect.com/)**, working with young men of color on leadership, brotherhood, and belonging through the outdoors.
 
 #### Let's Connect
-[LinkedIn](https://www.linkedin.com/in/cory-t-469a8238/)  |  [Email](corybishop5@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/cory-t-469a8238/)  |  Email: corybishop5@gmail.com
