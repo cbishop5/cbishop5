@@ -25,9 +25,9 @@ Product leader and builder based in NYC with 12+ years experience. I love helpin
 - **Tinkering on [TraceHawk](https://gettracehawk.com/)** — Process mining for AI agents in production. We read the traces teams already collect in LangSmith, Langfuse, Arize, and Datadog, analyze thousands of production runs at once, and find the loops, retries, and silent failures burning money. Then we hand back a specific fix with the dollar impact attached.
 
 #### Previously
-- Augmend AI. Product Lead at an AI-native collective intelligence platform for dev teams. Acquired by Datadog in 2024.
-- Safesite. Joined as first PM, scaled to VP Product through seed to Series B, and grew the product org from 1 to 4. Built the #1 EHS management platform, with a 57% proven reduction in workplace incidents, then led the pivot into insurtech with the ML risk model behind Foresight Insurance.
-- ShopDrop. Founded and sold an iOS and web app for finding sample sales and pop-ups in NYC. Scaled to 50k monthly actives with no marketing budget. TechCrunch Demo Day Audience Favorite, Accenture Consumer Innovation Awards finalist, Time Out NY top-20 apps for NYC.
+- **Augmend AI**. Product Lead at an AI-native collective intelligence platform for dev teams. Acquired by Datadog in 2024.
+- **Safesite**. Joined as first PM, scaled to VP Product through seed to Series B, and grew the product org from 1 to 4. Built the #1 EHS management platform, with a 57% proven reduction in workplace incidents, then led the pivot into insurtech with the ML risk model behind Foresight Insurance.
+- **ShopDrop**. Founded and sold an iOS and web app for finding sample sales and pop-ups in NYC. Scaled to 50k monthly actives with no marketing budget. TechCrunch Demo Day Audience Favorite, Accenture Consumer Innovation Awards finalist, Time Out NY top-20 apps for NYC.
 
 #### Writing & Press
 - **LogRocket Leader Spotlight: Building a human-focused AI product** — [Read the full interview](https://stories.logrocket.com/p/leader-spotlight-building-a-human)
